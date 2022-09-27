@@ -1,0 +1,11 @@
+E:\VS projects\Бой с боссом\Бой с боссом\obj\Debug\Бой с боссом.csproj.AssemblyReference.cache
+E:\VS projects\Бой с боссом\Бой с боссом\obj\Debug\Бой с боссом.csproj.SuggestedBindingRedirects.cache
+E:\VS projects\Бой с боссом\Бой с боссом\obj\Debug\Бой_с_боссом.Form1.resources
+E:\VS projects\Бой с боссом\Бой с боссом\obj\Debug\Бой_с_боссом.Properties.Resources.resources
+E:\VS projects\Бой с боссом\Бой с боссом\obj\Debug\Бой с боссом.csproj.GenerateResource.cache
+E:\VS projects\Бой с боссом\Бой с боссом\obj\Debug\Бой с боссом.csproj.CoreCompileInputs.cache
+E:\VS projects\Бой с боссом\Бой с боссом\bin\Debug\Бой с боссом.exe.config
+E:\VS projects\Бой с боссом\Бой с боссом\bin\Debug\Бой с боссом.exe
+E:\VS projects\Бой с боссом\Бой с боссом\bin\Debug\Бой с боссом.pdb
+E:\VS projects\Бой с боссом\Бой с боссом\obj\Debug\Бой с боссом.exe
+E:\VS projects\Бой с боссом\Бой с боссом\obj\Debug\Бой с боссом.pdb
